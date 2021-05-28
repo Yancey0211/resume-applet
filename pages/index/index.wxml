@@ -1,0 +1,88 @@
+<view class="cu-timeline">
+
+  <view class="cu-item text-blue">
+    <view class="bg-gradual-blue content shadow">
+      <view class="text-df padding-bottom-xs">广州身所集团/身所科技有限公司</view>
+      <view class="text-df padding-bottom-xs">技术部</view>
+      <view class="cu-capsule radius">
+        <view class="cu-tag bg-white text-blue">前端主管</view>
+        <view class="cu-tag line-white">2020.05-至今</view>
+      </view>
+      <view class="margin-top-sm text-content">
+        <view class="text-justify">1.负责公司项目前端的开发、负责统筹公司前端工作；</view>
+        <view class="text-justify">2.计划项目周期、工作安排、前端框架搭建；</view>
+        <view class="text-justify">3.小程序、后台管理系统的开发及工作分配；</view>
+        <view class="text-justify">4.按照功能组件的详细设计完成项目；</view>
+        
+      </view>
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="bg-gradual-blue content shadow">
+      <view class="text-df padding-bottom-xs">浙江世腾控股集团/益工网络科技有限公司</view>
+      <view class="text-df padding-bottom-xs">技术部</view>
+      <view class="cu-capsule radius">
+        <view class="cu-tag bg-white text-blue">前端主管</view>
+        <view class="cu-tag line-white">2020.09-2021.05</view>
+      </view>
+      <view class="margin-top-sm text-content">
+        <view class="text-justify">1.负责公司项目前端的开发、负责统筹公司前端工作；</view>
+        <view class="text-justify">2.计划项目周期、工作安排、前端框架搭建；</view>
+        <view class="text-justify">3.小程序、pc端、后台管理系统的开发；</view>
+        <view class="text-justify">4.按照功能组件的详细设计完成项目；</view>
+        <view class="text-justify">5.钻研各种前沿技术和创新交互，增强用户体验，开拓前端能力边界；</view>
+        
+      </view>
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="bg-gradual-blue content shadow">
+      <view class="text-df padding-bottom-xs">爪瓦科技（广州）有限公司</view>
+      <view class="text-df padding-bottom-xs">技术部</view>
+      <view class="cu-capsule radius">
+        <view class="cu-tag bg-white text-blue">前端主管</view>
+        <view class="cu-tag line-white">2020.01-2020.09</view>
+      </view>
+      <view class="margin-top-sm text-content">
+        <view class="text-justify">1.负责公司前端项目的开发；</view>
+        <view class="text-justify">2.计划项目周期、工作安排、前端框架搭建、app上架；</view>
+        <view class="text-justify">3.钻研各种前沿技术和创新交互，增强用户体验，开拓前端能力边界；</view>
+        <view class="text-justify">4.使用APICLOUD开发app；</view>
+        
+      </view>
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="bg-gradual-blue content shadow">
+      <view class="text-df padding-bottom-xs">常道（广州）有限公司/朋友街（广州）网络科技有限公司</view>
+      <view class="text-df padding-bottom-xs">软件开发部</view>
+      <view class="cu-capsule radius">
+        <view class="cu-tag bg-white text-blue">前端主管</view>
+        <view class="cu-tag line-white">2019.1-2019.12</view>
+      </view>
+      <view class="margin-top-sm text-content">
+        <view class="text-justify">1、根据产品设计需求，负责基于Html5，css3及JS等前端技术的Web开发；</view>
+        <view class="text-justify">2、利用 JavaScript 和 Jquery实现页面的动态效果；</view>
+        <view class="text-justify">3、高精度还原UI图，负责产品页面的交互效果代码实现；</view>
+        <view class="text-justify">4、使用Vue +Vue-Router 等技术开发WebApp；</view>
+        <view class="text-justify">5、与设计团队、后端开发团队紧密配合及优化网站前端性能；</view>
+        <view class="text-justify">6、配合后端工程师完成前后台数据的交互。</view>
+      </view>
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="bg-gradual-blue content shadow">
+      <view class="text-df padding-bottom-xs">深圳达力信科技有限公司</view>
+      <view class="text-df padding-bottom-xs">技术部</view>
+      <view class="cu-capsule radius">
+        <view class="cu-tag bg-white text-blue">Java软件工程师</view>
+        <view class="cu-tag line-white">2017.4-2019.1</view>
+      </view>
+      <view class="margin-top-sm text-content">
+        <view class="text-justify">1、负责公司的项目搭建及系统开发；</view>
+        <view class="text-justify">2、部分功能的优化（包括sq优化）；</view>
+        <view class="text-justify">3、负责整理部分项目的需求跟上级汇报；</view>
+      </view>
+    </view>
+  </view>
+</view>

@@ -1,3 +1,6 @@
 {
-  "navigationBarTitleText": "工作经验"
+  "navigationBarTitleText": "工作经验",
+  "usingComponents": {
+    "water-mark": "../../components/waterMark"
+  }
 }

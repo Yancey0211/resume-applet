@@ -60,4 +60,7 @@
       <text>3. 对技术保持敬畏，对人对事保持谦卑，能够跟进最前沿的前端技术。</text>
     </view>
   </view>
+  
+<!-- 水印组件 -->
+<water-mark></water-mark>
 </view>

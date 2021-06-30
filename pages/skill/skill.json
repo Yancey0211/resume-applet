@@ -1,3 +1,6 @@
 {
-  "navigationBarTitleText": "专业技能"
+  "navigationBarTitleText": "专业技能",
+  "usingComponents": {
+    "water-mark": "../../components/waterMark"
+  }
 }

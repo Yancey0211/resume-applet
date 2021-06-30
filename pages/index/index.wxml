@@ -85,4 +85,7 @@
       </view>
     </view>
   </view>
+  
+<!-- 水印组件 -->
+<water-mark></water-mark>
 </view>

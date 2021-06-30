@@ -1,3 +1,6 @@
 {
-  "navigationBarTitleText": "基本信息"
+  "navigationBarTitleText": "基本信息",
+  "usingComponents": {
+    "water-mark": "../../components/waterMark"
+  }
 }
